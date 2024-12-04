@@ -1,4 +1,4 @@
-* Discrete stochastic simulation of a tollhouse *
+#Discrete stochastic simulation of a tollhouse
 
 The code aims to study the evolution of the tollhouse queue using discrete stochastic simulation by managing vehicle arrivals, processing, and departures with random variables to model real-world unpredictability, depending on input parameters such as arrival mean, traversal mean, and payment mean.
 
